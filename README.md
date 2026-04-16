@@ -17,7 +17,7 @@ Prefix: `+A*BC`
 - String manipulation
 
 ## Assignment Requirements
-Covers CS200 requirements: 
+Covers ict202 requirements: 
 1. Workflow explanation
 2. Pseudocode 
 3. Java implementation
